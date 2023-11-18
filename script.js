@@ -8,7 +8,7 @@ jokeDiv.style.fontSize = 20+"px";
 const options = {
     method : "GET",
     headers:{
-        "X-Api-Key":"XyA1YM96iX9rKFO8Y6iwIaovmPtCykNdwvz8mNgE"
+        "X-Api-Key":"yUk0vLKhKAJCBkaEFd0UDzJOlBaYuEIDr3Z2H1Kt"
     },
 }
 
